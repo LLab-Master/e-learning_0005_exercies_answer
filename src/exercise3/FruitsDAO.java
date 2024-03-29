@@ -1,4 +1,4 @@
-package exercise10;
+package exercise3;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

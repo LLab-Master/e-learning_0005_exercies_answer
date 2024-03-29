@@ -1,4 +1,4 @@
-package exercise10;
+package exercise3;
 
 public class Fruits {
 	int id;
